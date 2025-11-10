@@ -1,15 +1,8 @@
 # Hi, I'm Hayden Winkler 👋
 
-**Game Developer** | **Unity Developer** | **Computer Science @ Mississippi State**
+**Computer Science @ Mississippi State**
 
-I create engaging gameplay experiences across VR and traditional platforms, with a focus on interaction design and player experience. Currently leading a 150-member game development community.
-
-## 🎮 What I Do
-
-- Design and prototype gameplay systems and mechanics
-- Build VR experiences with intuitive interaction and locomotion systems
-- Implement hand tracking and inverse kinematics for immersive experiences
-- Lead collaborative game development projects and workshops
+Currently a senior Computer Science major at Mississippi State with a focus on human and visual computing. I love working on interactive experiences for users; whether that be through game development or creating engaging UIs. I am currently set to complete my B.S. in Computer science in Dec. 2026.
 
 ## 🔨 Featured Projects
 
@@ -37,14 +30,11 @@ Built conversational AI using Naive Bayes Classifier with custom training datase
 
 **Game Engines:** Unity (2D, 3D, VR), Godot  
 **Languages:** C#, C++, Python, C  
-**VR Development:** Meta SDK, Hand Tracking, Inverse Kinematics  
-**Tools:** Git, Visual Studio Code, Bash
+**Tools:** GitHub, Visual Studio Code, SQL Databases
 
 ## 🎯 Currently
 
 - Leading Mississippi State's Video Game Design Club (150+ members)
-- Developing Blacksmith Simulator VR
-- Studying Computer Science (Expected Dec 2026)
 
 ## 📫 Let's Connect
 
@@ -53,4 +43,4 @@ Built conversational AI using Naive Bayes Classifier with custom training datase
 
 ---
 
-*Eagle Scout | President's Scholar | Founder of MSU Video Game Design Club*
+*Eagle Scout | Founder of MSU Video Game Design Club*
