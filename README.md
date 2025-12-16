@@ -6,17 +6,17 @@ Currently a senior Computer Science major at Mississippi State with a focus on h
 
 ## 🔨 Featured Projects
 
-### [Defense of Duskstone Citadel](https://github.com/Haywinkler05/The-Defense-of-Duskstone-Citadel) - VR Tower Defense
-Lead VR Programmer on a team of 4. Implemented full-body IK system using Meta SDK for natural player embodiment in VR tower defense gameplay.
+### [Defense of Duskstone Citadel](https://github.com/Haywinkler05/RayTracerInOneWeekend) - Ray Tracer Implemented in c++
+Following the Ray Tracing in One Weekend book, I was able to implement a fully fledged ray tracer in c++.
 
-**Tech:** Unity, Meta SDK, C#, Inverse Kinematics
+**Tech:** C++, PPM, Computer Graphics
 
 ### [Mission: 0-1981](https://github.com/Haywinkler05/Mission-0-1981) - VR Adventure
 Lead Gameplay and Locomotion Designer. Created World-In-Miniature locomotion system for intuitive VR navigation and owned core gameplay loop from concept to implementation.
 
 **Tech:** Unity, Meta SDK, C#, VR Interaction Systems
 
-### [Blacksmith Simulator](https://github.com/Haywinkler05/Blacksmith_Simulator) - VR Simulation (In Progress)
+### [Blacksmith Simulator](https://github.com/Haywinkler05/Blacksmith_Simulator) - VR Simulation
 Lead Gameplay Designer. Researching historical blacksmithing techniques to design an authentic yet engaging gameplay loop.
 
 **Tech:** Unity, Meta SDK, C#
