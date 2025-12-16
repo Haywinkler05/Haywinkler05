@@ -6,7 +6,7 @@ Currently a senior Computer Science major at Mississippi State with a focus on h
 
 ## 🔨 Featured Projects
 
-### [Defense of Duskstone Citadel](https://github.com/Haywinkler05/RayTracerInOneWeekend) - Ray Tracer Implemented in c++
+### [Ray Tracer In One Weekend](https://github.com/Haywinkler05/RayTracerInOneWeekend) - Ray Tracer Implemented in c++
 Following the Ray Tracing in One Weekend book, I was able to implement a fully fledged ray tracer in c++.
 
 **Tech:** C++, PPM, Computer Graphics
