@@ -1,46 +1,60 @@
-# Hi, I'm Hayden Winkler 👋
+# Hayden Winkler
 
-**Computer Science @ Mississippi State**
+## 🎓 Education
 
-Currently a senior Computer Science major at Mississippi State with a focus on human and visual computing. I love working on interactive experiences for users; whether that be through game development or creating engaging UIs. I am currently set to complete my B.S. in Computer science in Dec. 2026.
+**Bachelor of Science in Computer Science** | Mississippi State University  
+Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
-## 🔨 Featured Projects
+## 💼 Experience
 
-### [Ray Tracer In One Weekend](https://github.com/Haywinkler05/RayTracerInOneWeekend) - Ray Tracer Implemented in c++
-Following the Ray Tracing in One Weekend book, I was able to implement a fully fledged ray tracer in c++.
+**Founder & President** | MSU Video Game Design Club  
+*2023 - Present*
+- Built and lead organization of 150+ members focused on game development and interactive media
+- Organize workshops, game jams, and collaborative projects
 
-**Tech:** C++, PPM, Computer Graphics
+## 🚀 Featured Projects
 
-### [Mission: 0-1981](https://github.com/Haywinkler05/Mission-0-1981) - VR Adventure
-Lead Gameplay and Locomotion Designer. Created World-In-Miniature locomotion system for intuitive VR navigation and owned core gameplay loop from concept to implementation.
+### [Mission: 0-1981](https://github.com/Haywinkler05/Mission-0-1981) | VR Adventure Game
+*Lead Gameplay & Locomotion Designer*
 
-**Tech:** Unity, Meta SDK, C#, VR Interaction Systems
+Designed and implemented core gameplay systems for a VR adventure experience, including a custom World-In-Miniature locomotion system that reduces motion sickness while maintaining immersion.
 
-### [Blacksmith Simulator](https://github.com/Haywinkler05/Blacksmith_Simulator) - VR Simulation
-Lead Gameplay Designer. Researching historical blacksmithing techniques to design an authentic yet engaging gameplay loop.
+**Key Contributions:**
+- Architected intuitive VR navigation system from concept to production
+- Owned complete gameplay loop design and implementation
 
-**Tech:** Unity, Meta SDK, C#
+**Tech Stack:** Unity, C#, VR Interaction Systems
 
-### [AI Chatbot](https://github.com/Haywinkler05/Chatbot) - Natural Language Processing
-Built conversational AI using Naive Bayes Classifier with custom training dataset for intent recognition.
+### [Blacksmith Simulator](https://github.com/Haywinkler05/Blacksmith_Simulator) | VR Crafting Simulation
+*Lead Gameplay Designer*
 
-**Tech:** Python, NLP, Machine Learning
+Creating an authentic blacksmithing experience in VR by researching historical techniques and translating them into engaging, physically-based interactions.
 
-## 🛠️ Tech Stack
+**Tech Stack:** Unity, Meta SDK, C#
 
-**Game Engines:** Unity (2D, 3D, VR), Godot  
-**Languages:** C#, C++, Python, C  
-**Tools:** GitHub, Visual Studio Code, SQL Databases
+### [Ray Tracer in One Weekend](https://github.com/Haywinkler05/RayTracerInOneWeekend) | Graphics Renderer
 
-## 🎯 Currently
+Implemented a fully-functional ray tracer in C++ following Peter Shirley's "Ray Tracing in One Weekend" series, supporting materials, lighting, and antialiasing.
 
-- Leading Mississippi State's Video Game Design Club (150+ members)
+**Tech Stack:** C++, PPM Image Format, Computer Graphics
 
-## 📫 Let's Connect
+### [AI Chatbot](https://github.com/Haywinkler05/Chatbot) | Conversational AI
 
-**Email:** haywinkler05@gmail.com  
-**Location:** Mississippi
+Built a natural language processing system using Naive Bayes classification with custom training dataset for intent recognition and response generation.
+
+**Tech Stack:** Python, NLP, Machine Learning
+
+## 🎯 Currently Working On
+
+- Leading development initiatives for MSU Video Game Design Club
+- Exploring game design principles
+- Expanding knowledge in real-time rendering and shader programming
+
+## 📫 Get In Touch
+
+📧 **Email:** haywinkler05@gmail.com  
+📍 **Location:** Mississippi
 
 ---
 
-*Eagle Scout | Founder of MSU Video Game Design Club*
+*Eagle Scout | Passionate about creating intuitive and immersive interactive experiences*
