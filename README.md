@@ -14,7 +14,7 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
 ## 🚀 Featured Projects
 
-### [Mission: 0-1981](https://github.com/Haywinkler05/Prisoner-of-Ira) | 2D Arena Fighter
+### [Prisoner Of Ira](https://github.com/Haywinkler05/Prisoner-of-Ira) | 2D Arena Fighter
 *Sole Developer*
 
 Created a game in 7 days following the theme of rage. The game features a working upgrade system, wave fights, a rage mechanic, and various enemies.
