@@ -14,16 +14,11 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
 ## 🚀 Featured Projects
 
-### [Mission: 0-1981](https://github.com/Haywinkler05/Mission-0-1981) | VR Adventure Game
-*Lead Gameplay & Locomotion Designer*
+### [Mission: 0-1981](https://github.com/Haywinkler05/Prisoner-of-Ira) | 2D Arena Fighter
+*Sole Developer*
 
-Designed and implemented core gameplay systems for a VR adventure experience, including a custom World-In-Miniature locomotion system that reduces motion sickness while maintaining immersion.
+Created a game in 7 days following the theme of rage. The game features a working upgrade system, wave fights, a rage mechanic, and various enemies.
 
-**Key Contributions:**
-- Architected intuitive VR navigation system from concept to production
-- Owned complete gameplay loop design and implementation
-
-**Tech Stack:** Unity, C#, VR Interaction Systems
 
 ### [Blacksmith Simulator](https://github.com/Haywinkler05/Blacksmith_Simulator) | VR Crafting Simulation
 *Lead Gameplay Designer*
