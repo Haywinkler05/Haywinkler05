@@ -12,6 +12,14 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 - Built and lead organization of 150+ members focused on game development and interactive media
 - Organize workshops, game jams, and collaborative projects
 
+**Cybersecurity Analyist Intern** | Applied Technology Group LLC   
+*May 2024 - August 2024*
+- Monitored SIEM logs for any malicious activity
+- Authored a custom Bash script deployed silently across 100+ client machines via RMM to perform updates without system interruption
+- Assisted an Incident Response team in triaging and securing 100+ compromised machines, supporting containment and remediation efforts 
+## 📓 Write Ups
+## [CTF Writeups](https://github.com/Haywinkler05/CTF-Writeups) | HTB, THM, PicoCTF 
+These write ups serve as a way to showcase how I went about solving various CTFs and showcase my skills
 ## 🚀 Featured Projects
 
 ### [Prisoner Of Ira](https://github.com/Haywinkler05/Prisoner-of-Ira) | 2D Arena Fighter
@@ -20,12 +28,12 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 Created a game in 7 days following the theme of rage. The game features a working upgrade system, wave fights, a rage mechanic, and various enemies.
 
 
-### [Blacksmith Simulator](https://github.com/Haywinkler05/Blacksmith_Simulator) | VR Crafting Simulation
-*Lead Gameplay Designer*
+### [Python Network Scanner](https://github.com/Haywinkler05/Python-Network-Scanner) | Map your home network   
+*Sole Programmer*
 
-Creating an authentic blacksmithing experience in VR by researching historical techniques and translating them into engaging, physically-based interactions.
+Used ARP requests to obtain the MAC Address and IP address of all devices on the users home network.
 
-**Tech Stack:** Unity, Meta SDK, C#
+**Tech Stack:** Python, Socket library, arp library
 
 ### [Ray Tracer in One Weekend](https://github.com/Haywinkler05/RayTracerInOneWeekend) | Graphics Renderer
 
@@ -41,9 +49,9 @@ Built a natural language processing system using Naive Bayes classification with
 
 ## 🎯 Currently Working On
 
-- Leading development initiatives for MSU Video Game Design Club
-- Exploring game design principles
-- Expanding knowledge in real-time rendering and shader programming
+- TryHackMe Cybersecurity 101
+- HackTheBox Easy Machines Challenges
+- Obtainting a Security+ Certification
 
 ## 📫 Get In Touch
 
@@ -52,4 +60,4 @@ Built a natural language processing system using Naive Bayes classification with
 
 ---
 
-*Eagle Scout | Passionate about creating intuitive and immersive interactive experiences*
+
