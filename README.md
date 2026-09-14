@@ -1,11 +1,11 @@
 # Hayden Winkler
 
-## 🎓 Education
+## Education
 
 **Bachelor of Science in Computer Science** | Mississippi State University  
 Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
-## 💼 Experience
+## Experience
 
 **Founder & President** | MSU Video Game Design Club  
 *2023 - Present*
@@ -17,10 +17,10 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 - Monitored SIEM logs for any malicious activity
 - Authored a custom Bash script deployed silently across 100+ client machines via RMM to perform updates without system interruption
 - Assisted an Incident Response team in triaging and securing 100+ compromised machines, supporting containment and remediation efforts 
-## 📓 Write Ups
+##  Write Ups
 ## [CTF Writeups](https://github.com/Haywinkler05/CTF-Writeups) | HTB, THM, PicoCTF 
 These write ups serve as a way to showcase how I went about solving various CTFs and showcase my skills
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Prisoner Of Ira](https://github.com/Haywinkler05/Prisoner-of-Ira) | 2D Arena Fighter
 *Sole Developer*
@@ -47,16 +47,16 @@ Built a natural language processing system using Naive Bayes classification with
 
 **Tech Stack:** Python, NLP, Machine Learning
 
-## 🎯 Currently Working On
+##  Currently Working On
 
 - TryHackMe Cybersecurity 101
 - HackTheBox Easy Machines Challenges
 - Obtainting a Security+ Certification
 
-## 📫 Get In Touch
+##  Get In Touch
 
-📧 **Email:** haywinkler05@gmail.com  
-📍 **Location:** Mississippi
+ **Email:** haywinkler05@gmail.com  
+ **Location:** Mississippi
 
 ---
 
