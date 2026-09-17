@@ -5,53 +5,40 @@
 **Bachelor of Science in Computer Science** | Mississippi State University  
 Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
-## Experience
 
-**Founder & President** | MSU Video Game Design Club  
-*2023 - Present*
-- Built and lead organization of 150+ members focused on game development and interactive media
-- Organize workshops, game jams, and collaborative projects
-
-**Cybersecurity Analyist Intern** | Applied Technology Group LLC   
-*May 2024 - August 2024*
-- Monitored SIEM logs for any malicious activity
-- Authored a custom Bash script deployed silently across 100+ client machines via RMM to perform updates without system interruption
-- Assisted an Incident Response team in triaging and securing 100+ compromised machines, supporting containment and remediation efforts 
-##  Write Ups
-## [CTF Writeups](https://github.com/Haywinkler05/CTF-Writeups) | HTB, THM, PicoCTF 
-These write ups serve as a way to showcase how I went about solving various CTFs and showcase my skills
+## About Me
+I am a developer who loves both the low level and high level side of programming. Whether it is building a game in unity or manually releasing and storing memory in C. I love both sides of the coin and like to find how to make the more complex parts of computer science more accessible to the human. Below here I have a few projects that I believe stand out--Feel free to check them out!!! 
 ## Featured Projects
+### [Port-Scanner](https://github.com/Haywinkler05/Port-Scanner) | Linux Port-Scanner
+*Tech Stack: C, Wireshark, Kali Linux*
+
+This project operates fully on the transport layer utilizing a TCP connection to determine if a port is open or closed. It creates both the IP header and the TCP header then sends it through a socket to the destined port and IP. Once we get a response, it will output to the console.
 
 ### [Prisoner Of Ira](https://github.com/Haywinkler05/Prisoner-of-Ira) | 2D Arena Fighter
-*Sole Developer*
+*Tech Stack: Unity*
 
-Created a game in 7 days following the theme of rage. The game features a working upgrade system, wave fights, a rage mechanic, and various enemies.
+This project was for my solo game jam portion of my game design course. I built a 2D arena fighter that has the player manager their rage (game jam theme) as they fight their way through.
 
 
 ### [Python Network Scanner](https://github.com/Haywinkler05/Python-Network-Scanner) | Map your home network   
-*Sole Programmer*
+*Tech Stack: Python, ARP, Socket Programming*
 
 Used ARP requests to obtain the MAC Address and IP address of all devices on the users home network.
 
-**Tech Stack:** Python, Socket library, arp library
+
 
 ### [Ray Tracer in One Weekend](https://github.com/Haywinkler05/RayTracerInOneWeekend) | Graphics Renderer
+*Tech Stack: C++*
 
-Implemented a fully-functional ray tracer in C++ following Peter Shirley's "Ray Tracing in One Weekend" series, supporting materials, lighting, and antialiasing.
+Implemented a fully-functional ray tracer in C++ following Peter Shirley's "Ray Tracing in One Weekend" series, supporting materials, lighting, and anti aliasing.
 
-**Tech Stack:** C++, PPM Image Format, Computer Graphics
 
 ### [AI Chatbot](https://github.com/Haywinkler05/Chatbot) | Conversational AI
+*Tech Stack: Python, Naive Bayes Rule Based AI*
 
 Built a natural language processing system using Naive Bayes classification with custom training dataset for intent recognition and response generation.
 
-**Tech Stack:** Python, NLP, Machine Learning
 
-##  Currently Working On
-
-- TryHackMe Cybersecurity 101
-- HackTheBox Easy Machines Challenges
-- Obtainting a Security+ Certification
 
 ##  Get In Touch
 
