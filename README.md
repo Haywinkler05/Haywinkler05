@@ -7,7 +7,9 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
 
 ## About Me
-I am a developer who loves both the low level and high level side of programming. Whether it is building a game in unity or manually releasing and storing memory in C. I love both sides of the coin and like to find how to make the more complex parts of computer science more accessible to the human. Below here I have a few projects that I believe stand out--Feel free to check them out!!! 
+I am a developer who loves all things game design. From creating AI scripts, writing network code, or creating an engaging story-- I do it all. I am the founder and current president of the Video Game Design Club at Mississippi State University and have hosted 2 campus wide game jams, and have taught students various topics in game design. Feel free to check out my work!
+
+
 ## Featured Projects
 ### [Port-Scanner](https://github.com/Haywinkler05/Port-Scanner) | Linux Port-Scanner
 *Tech Stack: C, Wireshark, Kali Linux*
@@ -37,7 +39,10 @@ Implemented a fully-functional ray tracer in C++ following Peter Shirley's "Ray 
 *Tech Stack: Python, Naive Bayes Rule Based AI*
 
 Built a natural language processing system using Naive Bayes classification with custom training dataset for intent recognition and response generation.
+## Currently Working on
 
+### [First-Unreal-Project](https://github.com/Haywinkler05/First_Hour_Of_Unreal) | Unreal Engine Project
+Tutorial project to learn the ropes of Unreal
 
 
 ##  Get In Touch
