@@ -41,8 +41,8 @@ Implemented a fully-functional ray tracer in C++ following Peter Shirley's "Ray 
 Built a natural language processing system using Naive Bayes classification with custom training dataset for intent recognition and response generation.
 ## Currently Working on
 
-### [First-Unreal-Project](https://github.com/Haywinkler05/First_Hour_Of_Unreal) | Unreal Engine Project
-Tutorial project to learn the ropes of Unreal
+### [First-Unreal-Game](https://github.com/Haywinkler05/First_Game_In_Unreal) | Unreal Engine Project
+This is building off my first hour of unreal project.
 
 
 ##  Get In Touch
