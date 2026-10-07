@@ -5,6 +5,10 @@
 **Bachelor of Science in Computer Science** | Mississippi State University  
 Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
+**Masters of Science in Computer Science and Human Computer Interaction** | Mississippi State University
+
+*Currently applying* 
+
 
 ## About Me
 I am a developer who loves all things game design. From creating enemy AI, writing network code, or creating an engaging story-- I do it all. I am the founder and current president of the Video Game Design Club at Mississippi State University and have hosted 2 campus wide game jams, and have taught students various topics in game design. Feel free to check out my work!
