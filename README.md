@@ -51,7 +51,7 @@ This is building off my first hour of unreal project.
 
 ##  Get In Touch
 
- **Email:** haywinkler05@gmail.com  
+ **Email:** hayden.winkler@outlook.com
  **Location:** Mississippi
 
 ---
