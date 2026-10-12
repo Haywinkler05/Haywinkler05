@@ -7,7 +7,7 @@ Expected Graduation: December 2026 | Concentration: Human & Visual Computing
 
 **Masters of Science in Computer Science and Human Computer Interaction** | Mississippi State University
 
-*Currently applying* 
+*Applied* 
 
 
 ## About Me
