@@ -1,13 +1,13 @@
 # Hayden Winkler
 
 ## Education
+**Master of Science in Computer Science** | Mississippi State University<br>
+Concentration: Human Computer Interaction | Expected Graduation: Spring 2028
 
-**Bachelor of Science in Computer Science** | Mississippi State University  
-Expected Graduation: December 2026 | Concentration: Human & Visual Computing
+**Bachelor of Science in Computer Science** | Mississippi State University<br>
+Concentration: Human Computer Interaction | Expected Graduation: December 2026
 
-**Masters of Science in Computer Science and Human Computer Interaction** | Mississippi State University
 
-*Applied* 
 
 
 ## About Me
